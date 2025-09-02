@@ -1,4 +1,4 @@
-# lab11
+# Parcial1
 Saul Antonio Amaya Umanzor
 Cristian Alexis Velasquez Hernandez 
 1.Separar el código en módulos nos premitio organizar mejor el proyecto, facilitando la reutilización de clases y funciones, y hace más sencillo el mantenimiento y la depuración. Si todo estuviera en un solo archivo, sería más difícil encontrar errores, modificar partes específicas o reutilizar componentes en otros proyectos.
